@@ -1,11 +1,3 @@
-<p align="center">
-  <img alt="Footer" src="./.github/assets/Header.png">
-</p>
-
-<p align="center">
-  <img alt="Footer" src="./.github/assets/Footer.png">
-</p>
-
 <h1 align="center">
 Álcool ou Gasolina
 </h1>
@@ -22,3 +14,7 @@
 
 ## O Projeito
 - App Android para calculo se compensa abastecer com álcool ou gasolina
+
+<p align="center">
+  <img alt="Footer" src="./.github/APP.png">
+</p>
