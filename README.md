@@ -2,7 +2,7 @@
 Álcool ou Gasolina
 </h1>
 
-<p align="center">Projeto diciplicar.</p>
+<p align="center">Projeto disciplicar.</p>
 
 ## Participantes
 
