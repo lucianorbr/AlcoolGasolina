@@ -12,7 +12,7 @@
 
 - [x] Kotlin
 
-## O Projeito
+## O Projeto
 - App Android para calculo se compensa abastecer com álcool ou gasolina
 
 <p align="center">
